@@ -1,5 +1,5 @@
 [project]
-name = "Crypto Info"
+name = "Crypto_Info"
 version = "0.1.0"
 requires-python = ">=3.10"
 
